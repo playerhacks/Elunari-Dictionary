@@ -11,7 +11,7 @@ Elunari is only spoken through a Discord server, where you are only given basic 
 This website is specifically for mods of the Elunari server and language. Since conlags are usually learned through naturally speaking with others, there is no provided dictionary for regular members, other than your own. 
 
 ## How can I contribute?
-Mods can contribute to this dictionary in the future. [Contribute](Contribute.md)
+Mods can contribute to this dictionary in the future. [Contribute](mods-only/Contribute.md)
 
 ## Go to the website!
 [Click here](https://playerhacks.github.io/Elunari-Dictionary/) to go to the website.
