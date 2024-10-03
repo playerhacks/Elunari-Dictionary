@@ -9,9 +9,23 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "INTERJECTION",
                 "explanation": "Used to greet someone.",
-                "example": "Ahora-vu!",
+                "example": "Salu!",
                 "gloss": "I look (on) human that.",
-                "exampleTranslation": "Hello, you!"
+                "exampleTranslation": "Hello!"
+            }
+        ]
+    },
+     {
+        "word": "Fare",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "INTERJECTION",
+                "explanation": "Used to express farewell.",
+                "example": "Fare!",
+                "gloss": "I look (on) human that.",
+                "exampleTranslation": "Bye!"
             }
         ]
     },
