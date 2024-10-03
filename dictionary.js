@@ -70,10 +70,10 @@ externalDictionary = [
                 "exampleTranslation": "Hello, human."
             },
             {
-                "hasBadge": false,
-                "badgeText": "",
+                "hasBadge": true,
+                "badgeText": "plural",
                 "type": "NOUN",
-                "explanation": "jan ale",
+                "explanation": "janale",
                 "example": "multiple individuals or humans.",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -203,6 +203,90 @@ externalDictionary = [
                 "example": "Kecil bem hon.",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "Mouse kills the elephant."
+            }
+        ]
+    },
+    {
+        "word": "kribi",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement.",
+                "example": "Mi-ju kribi.",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "I write."
+            }
+        ]
+    },
+    {
+        "word": "mi-ju",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PRONOUN",
+                "explanation": "Refers to the speaker.",
+                "example": "Mi-ju lape.",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "I sleep."
+            }
+        ]
+    },
+    {
+        "word": "lape",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "a condition of body and mind that typically recurs for several hours every night, in which the eyes are closed, the postural muscles relaxed, the activity of the brain altered, and consciousness of the surroundings practically suspended.",
+                "example": "Mi-ju lape.",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "I sleep."
+            }
+        ]
+    },
+    {
+        "word": "wewoei",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "nari",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "say something in order to convey information, an opinion, or a feeling.",
+                "example": "Mi-ju nari.",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "I speak."
+            }
+        ]
+    },
+    {
+        "word": "ig",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "perceive the intended meaning of (words, a language, or a speaker).",
+                "example": "Mi-ju nai ig.",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "I don't understand."
             }
         ]
     }
