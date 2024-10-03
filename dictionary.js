@@ -1,4 +1,4 @@
-dictionaryDescription = "This dictionary contains the words I know from Sanā.",
+dictionaryDescription = "This dictionary contains all the words from Elunari",
 dictionaryHaveGlosses = false,
 externalDictionary = [
     {
